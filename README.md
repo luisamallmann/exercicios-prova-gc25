@@ -1,2 +1,2 @@
-# exercicios-prova-gc25
+# Exercícios Java - prova GC25
 Aqui estão os meus códigos dos exercícios da prova do GC25 :)
